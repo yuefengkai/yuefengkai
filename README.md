@@ -7,8 +7,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yuefengkai&hide=issues&include_all_commits=true&title_color=333&text_color=777" alt="Brook's Stats" >
     -->
   </a>
-   <br><br>
-  <strong>Check out my work below!</strong>
+  <!--  <br><br>
+  <strong>Check out my work below!</strong>-->
   <br><br>
   <a href="https://github.com/yuefengkai">
     <img src="https://badges.pufler.dev/visits/yuefengkai/yuefengkai?style=flat-square&color=black&logo=github">
