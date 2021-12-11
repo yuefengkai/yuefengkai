@@ -1,9 +1,9 @@
 ## Hi, I'm Brook 👋
 
-<p align="center">
+<p align="center"7
   <a href="https://github.com/yuefengkai" class="rich-diff-level-one">
      <img src="https://github-readme-stats.vercel.app/api?username=yuefengkai&show_icons=true&count_private=true&title_color=333&text_color=777" alt="Brook's Stats" width="70%" >
-    <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Brook's Stats" width="20%" >
+    <img src="https://api.multiavatar.com/c41e8f1eef0a7a18fa.png" alt="Brook's Stats" align="right" width="26%" >
 
   </a>
   <!--  <br><br>
