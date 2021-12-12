@@ -13,6 +13,7 @@
 	align="right" width="26%">
 	</a>
 </p>
+<h2> 👨🏻‍💻 Languages and Tools </h2> <br />
 <p align="center">
 		<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
