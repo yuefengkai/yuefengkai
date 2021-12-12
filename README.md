@@ -5,11 +5,10 @@
 </h1>
 <p align="center" <a href="https://github.com/yuefengkai" class="rich-diff-level-one">
 	<img src="https://github-readme-stats.vercel.app/api?username=yuefengkai&show_icons=true&count_private=true&theme=vue&hide_border=true"
-	alt="Brook's Stats" width="70%">
-	<!-- <img src="https://api.multiavatar.com/c41e8f1eef0a7a18fa.png" alt="Brook's Stats"
-	align="right" width="26%"> -->
-	 <img src="images/dev-working_rounded.gif" alt="Brook's Stats"
-	align="right" width="30%">
+	alt="Brook's Stats" width="60%">
+	<!--<img src="https://api.multiavatar.com/c41e8f1eef0a7a18fa.png" alt="Brook's Stats"
+	align="right" width="26%">-->
+	<img src="https://raw.githubusercontent.com/yuefengkai/yuefengkai/main/images/dev-working_rounded.gif" alt="Brook's Stats" align="right" width="30%">
 	</a>
 </p>
 <p align="center">
